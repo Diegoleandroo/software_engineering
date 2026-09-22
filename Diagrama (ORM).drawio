@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="vL2pyncM6GgYT1lVzUWt">
+    <mxGraphModel dx="1414" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Interface Gráfica Web" vertex="1">
+          <mxGeometry height="100" width="200" x="180" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Interface Gráfica Móvel&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="210" x="500" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aplicações Clientes&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="110" x="20" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-4" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="480" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-5" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.61;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dcs1-LY_qPpoks-YaaOJ-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="480" as="sourcePoint" />
+            <mxPoint x="610" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API Gatewar" vertex="1">
+          <mxGeometry height="60" width="390" x="250" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MicrrosServiço&amp;nbsp; de comprar&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="110" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MicroServiço Venda" vertex="1">
+          <mxGeometry height="70" width="180" x="382" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MicrosServiço Envio" vertex="1">
+          <mxGeometry height="70" width="190" x="610" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-10" edge="1" parent="1" source="Dcs1-LY_qPpoks-YaaOJ-6" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dcs1-LY_qPpoks-YaaOJ-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="730" as="sourcePoint" />
+            <mxPoint x="610" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-11" edge="1" parent="1" source="Dcs1-LY_qPpoks-YaaOJ-6" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="325" y="540" as="sourcePoint" />
+            <mxPoint x="235" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-12" edge="1" parent="1" source="Dcs1-LY_qPpoks-YaaOJ-6" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.521;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.068;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dcs1-LY_qPpoks-YaaOJ-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="730" as="sourcePoint" />
+            <mxPoint x="620" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-13" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="190" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-14" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="450" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="690" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Broker de Mensagens (Agente de Mensagem )" vertex="1">
+          <mxGeometry height="60" width="450" x="255" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-17" edge="1" parent="1" source="Dcs1-LY_qPpoks-YaaOJ-16" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.187;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.79;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dcs1-LY_qPpoks-YaaOJ-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="920" as="sourcePoint" />
+            <mxPoint x="370" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-18" edge="1" parent="1" source="Dcs1-LY_qPpoks-YaaOJ-9" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.844;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="Dcs1-LY_qPpoks-YaaOJ-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="720" as="sourcePoint" />
+            <mxPoint x="490" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dcs1-LY_qPpoks-YaaOJ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MicrosServiços&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="10" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
