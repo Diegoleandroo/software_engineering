@@ -18,7 +18,7 @@ Comunicação assíncrona: Broker de Mensagens integrando os microsserviços (pa
 
 Arquitetura Limpa
 
-é um diagrama estrutural (estático) do UML que agrupa elementos relacionados (classes, interfaces) em pacotes (namespaces lógicos), e mostra as relações de dependência entre esses pacotes e entre os elementos internos a eles. Ele documenta como o código está organizado e quais partes podem depender de quais — não mostra comportamento, tempo ou execução (isso seria diagrama de sequência, de atividades, etc.).
+É um diagrama estrutural (estático) do UML que agrupa elementos relacionados (classes, interfaces) em pacotes (namespaces lógicos), e mostra as relações de dependência entre esses pacotes e entre os elementos internos a eles. Ele documenta como o código está organizado e quais partes podem depender de quais — não mostra comportamento, tempo ou execução (isso seria diagrama de sequência, de atividades, etc.).
 
 Os elementos formais que ele contém
 Elemento visual	Nome técnico UML
